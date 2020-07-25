@@ -35,7 +35,7 @@ Install Git
 Install HNP
     
     $ cd /opt/
-    $ sudo git clone https://github.com/ehackify/hnp.git
+    $ sudo git clone https://github.com/prasanthc41m/hnp.git
     $ cd hnp/
 
 Run the following script to complete the installation.  While this script runs,
